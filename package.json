@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "workspaces": [
+    "api",
+    "dashboard"
+  ],
+  "scripts": {
+    "dev:api": "cd api && npm run dev",
+    "dev:dashboard": "cd dashboard && npm run dev",
+    "dev": "concurrently \"npm run dev:api\" \"npm run dev:dashboard\""
+  },
+  "devDependencies": {
+    "commander": "^12.1.0",
+    "concurrently": "^9.1.0"
+  },
+  "dependencies": {
+    "date-fns-tz": "^3.2.0"
+  }
+}

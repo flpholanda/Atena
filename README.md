@@ -6,7 +6,7 @@ Controle de Despesas: Registre e categorize suas despesas diárias de forma simp
 Planejamento Orçamentário: Defina orçamentos mensais e acompanhe seu progresso.
 Relatórios e Análises: Gere relatórios gráficos e tabelas que ajudam a visualizar sua saúde financeira.
 Meta de Economia: Defina metas de economia e acompanhe seu progresso ao longo do tempo.
-Alertas e Notificações: Receba alertas de vencimento de contas ou quando você estiver se aproximando do limite do orçamento.
+
 ## 🛠 Tecnologias Utilizadas
 Backend: Node.js + nest
 

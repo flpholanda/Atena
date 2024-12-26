@@ -3,8 +3,9 @@ Atena é uma aplicação projetada para ajudar indivíduos a gerenciar suas fina
 
 ## 🚀 Funcionalidades
 Controle de Despesas: Registre e categorize suas despesas diárias de forma simples e eficiente.
+
 Planejamento Orçamentário: Defina orçamentos mensais e acompanhe seu progresso.
-Relatórios e Análises: Gere relatórios gráficos e tabelas que ajudam a visualizar sua saúde financeira.
+
 Meta de Economia: Defina metas de economia e acompanhe seu progresso ao longo do tempo.
 
 ## 🛠 Tecnologias Utilizadas

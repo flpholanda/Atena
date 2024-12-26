@@ -46,4 +46,5 @@ Siga as instruções abaixo para rodar o projeto localmente.
 ## 🤝 Contribuidores
 
 Felipe Holanda @flpholanda
+
 Rodrigo Navarro @navazl
